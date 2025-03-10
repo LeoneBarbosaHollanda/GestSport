@@ -41,7 +41,12 @@ PASSWORD=sua_senha
 DB_NAME=GSDB
 ```
 
-### 6️⃣ Rode o servidor:
+### 6️⃣ Rode o teste no  terminal:
+```bash
+pytest
+```
+
+### 7️⃣ Rode o servidor:
 ```bash
 uvicorn app.main:app --reload
 ```
