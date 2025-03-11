@@ -1,7 +1,7 @@
 # 🚀 Como Rodar o Projeto
 
 ## 📌 Pré-requisitos
-Antes de começar, certifique-se de ter os seguintes itens instalados na sua máquina:
+Antes de começar, se certifique de ter os seguintes itens instalados na sua máquina:
 
 - **Python 3.12+** (caso esteja usando FastAPI)  
 - **PostgreSQL ** (dependendo do banco escolhido)  
